@@ -1,0 +1,6 @@
+string[] meshNames
+geometry_msgs/Pose[] poses
+---
+int32[] errcodes
+string[] errmsgs
+string[] instanceNames

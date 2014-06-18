@@ -1,0 +1,4 @@
+---
+int32 errcode
+string errmsg
+string[] meshNames

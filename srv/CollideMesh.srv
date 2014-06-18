@@ -1,0 +1,9 @@
+string[] meshNames
+geometry_msgs/Pose[] poses
+armsweep/AllowedCollisions[] allowedCollisions
+---
+float32 duration
+int32[] errcodes
+string[] errmsgs
+int32[] inFreespace
+float32[] distances

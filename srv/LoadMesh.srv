@@ -1,0 +1,5 @@
+string[] meshNames
+string[] meshURLs
+---
+int32[] errcodes
+string[] errmsgs

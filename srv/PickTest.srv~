@@ -1,0 +1,9 @@
+geometry_msgs/Pose target
+string[] allowedCollisions
+---
+int32 errcode
+string errmsg
+int32 foundTrajectory
+moveit_msgs/RobotState[] approach
+moveit_msgs/RobotState[] return
+
